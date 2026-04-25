@@ -5,7 +5,7 @@ An AI Femboy Python File That Uses Ollama And Gemma4
 
 ## Install [Ollama](https://ollama.com/download)
 
-## Install [Python 2.13.13](https://www.python.org/downloads/release/python-31313/)
+## Install [Python 3.13.13](https://www.python.org/downloads/release/python-31313/)
 
 ## In CMD Type:
 ## ```pip install customtkinter requests pillow duckduckgo_search```
